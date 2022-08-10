@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm currently resides in Barcelona, Spain. 
+Master Student in Data Science, currently resides in Barcelona, Spain. 
 <!--
 **claudialynhk/claudialynhk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
