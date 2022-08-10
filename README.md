@@ -1,5 +1,7 @@
 ### Hi there 👋
-Master Student in Data Science in Universidad Politécnica de Cataluña. Prior to that, I receieved my Barchelor degree in Computer Engineering in the Hong Kong Univeristy of Science and Technolgy, and did a summer exchnage in Linnaeus Univeristiy. Interested in projects related to machine learning, data analysis and embedded systems.
+Master Student in Data Science in Universidad Politécnica de Cataluña. Prior to that, I receieved my Barchelor degree in Computer Engineering in the Hong Kong Univeristy of Science and Technolgy, and did a summer exchnage in Linnaeus Univeristiy. 
+
+Interested in projects related to machine learning, data analysis and embedded systems.
 <!--
 **claudialynhk/claudialynhk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
